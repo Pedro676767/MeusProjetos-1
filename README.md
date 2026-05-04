@@ -15,7 +15,7 @@ Este repositório centraliza os registros acadêmicos, materiais de estudo e o c
 | :--- | :--- |
 | **🏫 Escola** | `[Colegio Augustus]` |
 | **🎓 Turma** | `[Ex: 1º Módulo - Informática]` |
-| **👨‍🏫 Professor** | `[Tales Siqueira]` |
+| **👨‍🏫 Professor** | `Tales Siqueira` |
 | **🧑‍💻 Aluno** | `[Pedro Augusto de Oliveira Assis]` |
 
 ---
