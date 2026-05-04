@@ -13,10 +13,10 @@ Este repositório centraliza os registros acadêmicos, materiais de estudo e o c
 
 | 🏷️ Campo | 🖋️ Informação |
 | :--- | :--- |
-| **🏫 Escola** | `[Inserir o nome da instituição]` |
-| **🎓 Turma** | `[Ex: 2º Módulo - Informática]` |
-| **👨‍🏫 Professor** | `[Nome do Professor]` |
-| **🧑‍💻 Aluno** | `[Seu Nome Completo]` |
+| **🏫 Escola** | `[Colegio Augustus]` |
+| **🎓 Turma** | `[Ex: 1º Módulo - Informática]` |
+| **👨‍🏫 Professor** | `[Tales Siqueira]` |
+| **🧑‍💻 Aluno** | `[Pedro Augusto de Oliveira Assis]` |
 
 ---
 
