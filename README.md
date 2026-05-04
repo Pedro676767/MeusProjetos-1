@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Caderno%20Digital&fontSize=70&fontAlignY=35&animation=fadeIn" alt="Banner do Caderno Digital">
   
   ![Status do Repositório](https://img.shields.io/badge/Status-Em_Desenvolvimento-success?style=for-the-badge)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_REPOSITORIO?style=for-the-badge&color=blue)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/professortales/1ModuloTrilhas2026PedroAugustodeOliveiraAssis?style=for-the-badge&color=blue)
 </div>
 
 # 📓 Caderno Digital de Atividades
